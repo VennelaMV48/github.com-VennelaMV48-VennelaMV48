@@ -1,61 +1,77 @@
 # Hi, I'm Vennela Mangala Venkatesha 👋
 
-AI engineer with a focus on **computer vision, embedded AI, and intelligent systems**.
+AI engineer passionate about building intelligent systems that solve real-world problems.
 
-Currently pursuing a **Master of Artificial Intelligence at the University of Auckland**.
+Currently pursuing a **Master of Artificial Intelligence at the University of Auckland**, with interests in **computer vision, embedded AI, and intelligent assistants**.
 
 
 
-## Featured Projects
+## 🚀 Featured Projects
 
-### TinyML Kororā Dog Detection
+### 🐧 TinyML Kororā Dog Detection
 Edge AI system for wildlife monitoring using embedded computer vision.
 
-Technologies:
-TinyML • Edge AI • Embedded Systems • Computer Vision
+**Tech:** TinyML, Edge AI, Embedded Systems, Computer Vision  
+
+Repository: tinyml-korora-dog-detection
 
 
 
-### Multimodal Pet Re-Identification
-Deep learning system for identifying pets using multimodal visual features.
+### 🐶 Multimodal Pet Re-Identification
+Deep learning system for identifying individual animals using multimodal visual features and transformer-based embeddings.
 
-Technologies:
-Computer Vision • PyTorch • Transformer Models
+**Tech:** Computer Vision, PyTorch, Deep Learning  
+
+Repository: multimodal-pet-reidentification
 
 
 
-### LLM Animal Ethics Advisor
+### 🧠 LLM Animal Ethics Advisor
 AI assistant for pre-screening research ethics applications using large language models.
 
-Technologies:
-LLM • Prompt Engineering • NLP • Streamlit
+**Tech:** LLM, NLP, Prompt Engineering, Streamlit  
+
+Repository: llm-animal-ethics-advisor
 
 
 
-## Skills
+## 🛠 Tech Stack
 
-**Programming**
+### Programming
+Python • SQL
 
-Python  
-PyTorch  
-TensorFlow  
+### Machine Learning
+PyTorch • TensorFlow • Scikit-Learn
 
-**AI & ML**
+### AI Domains
+Computer Vision • NLP • Deep Learning • TinyML
 
-Computer Vision  
-Deep Learning  
-TinyML  
-Natural Language Processing  
-
-**Tools**
-
-Edge Impulse  
-Roboflow  
-Streamlit  
-Jupyter  
+### Tools
+Edge Impulse • Roboflow • Streamlit • Jupyter Notebook
 
 
 
-## Contact
+## 📚 Current Focus
 
-LinkedIn: (add your LinkedIn link)
+- Embedded AI systems  
+- Computer vision applications  
+- LLM-based intelligent assistants  
+- AI systems for real-world impact  
+
+
+
+## 🌍 Interests
+
+AI for environmental monitoring  
+Edge AI deployment  
+Applied machine learning research  
+
+
+
+## 📫 Connect With Me
+
+LinkedIn: *www.linkedin.com/in/vennela-mangala-venkatesha*
+
+
+
+⭐ Always interested in collaborating on **AI projects with real-world impact.**
