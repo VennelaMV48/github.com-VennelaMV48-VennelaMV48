@@ -2,63 +2,81 @@
 
 AI engineer passionate about building intelligent systems that solve real-world problems.
 
-Currently pursuing a **Master of Artificial Intelligence at the University of Auckland**, with interests in **computer vision, embedded AI, and intelligent assistants**.
+Currently pursuing a **Master of Artificial Intelligence at the University of Auckland**.
 
-
+---
 
 ## 🚀 Featured Projects
 
+<table>
+<tr>
+
+<td width="33%" align="center">
+
+<a href="https://github.com/VennelaMV48/tinyml-korora-dog-detection">
+
 ### 🐧 TinyML Kororā Dog Detection
+
 Edge AI system for wildlife monitoring using embedded computer vision.
 
-**Tech:** TinyML, Edge AI, Embedded Systems, Computer Vision  
+**Tech:** TinyML • Edge AI • Computer Vision
 
-Repository: tinyml-korora-dog-detection
+</a>
 
+</td>
 
+<td width="33%" align="center">
+
+<a href="https://github.com/VennelaMV48/multimodal-pet-reidentification">
 
 ### 🐶 Multimodal Pet Re-Identification
-Deep learning system for identifying individual animals using multimodal visual features and transformer-based embeddings.
 
-**Tech:** Computer Vision, PyTorch, Deep Learning  
+Deep learning system for identifying animals using multimodal visual features.
 
-Repository: multimodal-pet-reidentification
+**Tech:** PyTorch • Computer Vision • Transformers
 
+</a>
 
+</td>
+
+<td width="33%" align="center">
+
+<a href="https://github.com/VennelaMV48/llm-animal-ethics-advisor">
 
 ### 🧠 LLM Animal Ethics Advisor
-AI assistant for pre-screening research ethics applications using large language models.
 
-**Tech:** LLM, NLP, Prompt Engineering, Streamlit  
+AI assistant for pre-screening research ethics applications.
 
-Repository: llm-animal-ethics-advisor
+**Tech:** LLM • NLP • Streamlit
 
+</a>
 
+</td>
+
+</tr>
+</table>
+
+---
 
 ## 🛠 Tech Stack
 
-### Programming
+**Programming**
+
 Python • SQL
 
-### Machine Learning
+**Machine Learning**
+
 PyTorch • TensorFlow • Scikit-Learn
 
-### AI Domains
+**AI Domains**
+
 Computer Vision • NLP • Deep Learning • TinyML
 
-### Tools
-Edge Impulse • Roboflow • Streamlit • Jupyter Notebook
+**Tools**
 
+Edge Impulse • Roboflow • Streamlit • Jupyter
 
-
-## 📚 Current Focus
-
-- Embedded AI systems  
-- Computer vision applications  
-- LLM-based intelligent assistants  
-- AI systems for real-world impact  
-
-
+---
 
 ## 🌍 Interests
 
@@ -66,12 +84,18 @@ AI for environmental monitoring
 Edge AI deployment  
 Applied machine learning research  
 
-
+---
 
 ## 📫 Connect With Me
 
-LinkedIn: *www.linkedin.com/in/vennela-mangala-venkatesha*
+<a href="www.linkedin.com/in/vennela-mangala-venkatesha">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" height="35"/>
+</a>
 
+Click the icon to visit my LinkedIn profile.
 
+---
 
-⭐ Always interested in collaborating on **AI projects with real-world impact.**
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=default)
