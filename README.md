@@ -87,3 +87,78 @@ Applied machine learning research
 Click the icon to visit my LinkedIn profile.
 
 
+
+
+
+
+## 🚀 Featured Projects
+
+<p align="center">
+
+<a href="https://github.com/YOURUSERNAME/tinyml-korora-dog-detection">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOURUSERNAME&repo=tinyml-korora-dog-detection"/>
+</a>
+
+<a href="https://github.com/YOURUSERNAME/multimodal-pet-reidentification">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOURUSERNAME&repo=multimodal-pet-reidentification"/>
+</a>
+
+<a href="https://github.com/YOURUSERNAME/llm-animal-ethics-advisor">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOURUSERNAME&repo=llm-animal-ethics-advisor"/>
+</a>
+
+</p>
+
+
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td align="center">
+
+<a href="https://github.com/YOURUSERNAME/tinyml-korora-dog-detection">
+
+<b>🐧 TinyML Kororā Dog Detection</b>
+
+<br>
+
+Edge AI system for wildlife monitoring
+
+</a>
+
+</td>
+
+<td align="center">
+
+<a href="https://github.com/VennelaMV48/multimodal-pet-reidentification">
+
+<b>🐶 Multimodal Pet Re-Identification</b>
+
+<br>
+
+Computer vision system for identifying animals
+
+</a>
+
+</td>
+
+<td align="center">
+
+<a href="https://github.com/YOURUSERNAME/llm-animal-ethics-advisor">
+
+<b>🧠 LLM Animal Ethics Advisor</b>
+
+<br>
+
+LLM assistant for ethics proposal screening
+
+</a>
+
+</td>
+
+</tr>
+</table>
+
+
